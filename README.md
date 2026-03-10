@@ -1,4 +1,4 @@
-# 🔢 Zahl-zu-Wort Konverter
+# Zahl-zu-Wort Konverter
 
 Ein einfaches Python-CLI-Tool, das ganze Zahlen in deutsche Wortform umwandelt.
 
